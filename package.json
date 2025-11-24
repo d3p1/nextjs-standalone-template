@@ -7,8 +7,10 @@
     "format:code": "prettier --ignore-path .gitignore --check src",
     "format:code:fix": "npm run format:code -- --write",
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "build:code": "next build",
+    "build:static": "cp -r public .next/standalone/ && cp -r .next/static .next/standalone/.next/",
+    "build": "npm run build:code && npm run build:static",
+    "start": "node .next/standalone/server.js",
     "lint": "eslint"
   },
   "repository": {
