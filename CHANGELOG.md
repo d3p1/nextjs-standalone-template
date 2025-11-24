@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/d3p1/nextjs-standalone-template/compare/v1.0.0...v1.1.0) (2025-11-24)
+
+
+### Features
+
+* add standalone mode [[#1](https://github.com/d3p1/nextjs-standalone-template/issues/1)] ([6b545ef](https://github.com/d3p1/nextjs-standalone-template/commit/6b545efe14eabcaa75e633f8a1ecefecf185ae3e))
+
 # 1.0.0 (2025-11-23)
 
 
