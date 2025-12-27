@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/d3p1/nextjs-standalone-template/compare/v1.1.1...v1.1.2) (2025-12-27)
+
+
+### Bug Fixes
+
+* add patch that solves framework vulnerability issue [[#1](https://github.com/d3p1/nextjs-standalone-template/issues/1)] ([c63a875](https://github.com/d3p1/nextjs-standalone-template/commit/c63a8757d1fd4e20c8782ec023982628e47af694))
+* add remote changes [[#1](https://github.com/d3p1/nextjs-standalone-template/issues/1)] ([63ba0cf](https://github.com/d3p1/nextjs-standalone-template/commit/63ba0cf5670333fece987194fe4c9be15f77fb29))
+
 ## [1.1.1](https://github.com/d3p1/nextjs-standalone-template/compare/v1.1.0...v1.1.1) (2025-11-24)
 
 
