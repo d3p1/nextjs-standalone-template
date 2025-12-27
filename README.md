@@ -20,7 +20,16 @@ Finally, it is customized the [`start` script](./package.json), so it uses the s
 
 ## Usage
 
-To deploy your app, run:
+Update the following [`package.json`](package.json) settings:
+
+- `description`
+- `repository.url`
+- `author`
+- `bugs.url`
+- `homepage`
+- `keywords`
+
+Finally, to deploy your app, run:
 
 - `npm run build`
 - `npm run start`
