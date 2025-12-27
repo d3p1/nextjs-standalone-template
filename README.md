@@ -20,6 +20,8 @@ Finally, it is customized the [`start` script](./package.json), so it uses the s
 
 ## Usage
 
+Update the [`README.md`](README.md), specifically the badges.
+
 Update the following [`package.json`](package.json) settings:
 
 - `description`
