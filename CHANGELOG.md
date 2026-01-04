@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/d3p1/nextjs-standalone-template/compare/v1.1.2...v1.2.0) (2026-01-04)
+
+
+### Bug Fixes
+
+* add IDE files to gitignore [[#1](https://github.com/d3p1/nextjs-standalone-template/issues/1)] ([0e2037f](https://github.com/d3p1/nextjs-standalone-template/commit/0e2037f50a1909c209f59e8c431a8e7068e08ba9))
+
+
+### Features
+
+* upgrade to use src dir and bun [[#1](https://github.com/d3p1/nextjs-standalone-template/issues/1)] ([04ea90e](https://github.com/d3p1/nextjs-standalone-template/commit/04ea90ec735c1fee9a444b0fe64a0da3c986eb35))
+
 ## [1.1.2](https://github.com/d3p1/nextjs-standalone-template/compare/v1.1.1...v1.1.2) (2025-12-27)
 
 
