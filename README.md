@@ -46,6 +46,12 @@ Finally, to deploy your app, run:
 - `npm run build`
 - `npm run start`
 
+> [!NOTE]
+> You can configure [`prettier`](https://prettier.io/) with your IDE to use the proposed template configuration.
+
+> [!IMPORTANT]
+> The [`release`](./.github/workflows/release.yml) and [`publish`](./.github/workflows/publish.yml) [GitHub Actions](./.github/workflows) use [`node`](https://nodejs.org/en), so to avoid errors you should manage your dependencies with [`npm`](https://www.npmjs.com/).
+
 ## Changelog
 
 Detailed changes for each release are documented in [`CHANGELOG.md`](./CHANGELOG.md).
