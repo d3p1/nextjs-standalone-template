@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/d3p1/nextjs-standalone-template/compare/v1.2.0...v1.2.1) (2026-01-06)
+
+
+### Bug Fixes
+
+* add needed commitlint config file [[#1](https://github.com/d3p1/nextjs-standalone-template/issues/1)] ([18d0e85](https://github.com/d3p1/nextjs-standalone-template/commit/18d0e8505cea5f2997422509162787286e8733cd))
+
 # [1.2.0](https://github.com/d3p1/nextjs-standalone-template/compare/v1.1.2...v1.2.0) (2026-01-04)
 
 
