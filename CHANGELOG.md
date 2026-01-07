@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/d3p1/nextjs-standalone-template/compare/v1.2.1...v1.3.0) (2026-01-07)
+
+
+### Features
+
+* add typed routes flag [[#1](https://github.com/d3p1/nextjs-standalone-template/issues/1)] ([bb010e8](https://github.com/d3p1/nextjs-standalone-template/commit/bb010e8fae9252c805031d88affbdc2dc4d9050e))
+
 ## [1.2.1](https://github.com/d3p1/nextjs-standalone-template/compare/v1.2.0...v1.2.1) (2026-01-06)
 
 
